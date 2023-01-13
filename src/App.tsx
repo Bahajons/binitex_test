@@ -1,5 +1,5 @@
-import axios from 'axios';
 import { useEffect, useState } from 'react';
+import axios from 'axios';
 import Home from './components/Home';
 import Loader from './components/sections/Loader';
 
